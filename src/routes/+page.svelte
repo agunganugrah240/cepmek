@@ -129,7 +129,7 @@
 <Modal modal_id="modal-create" modal_title="Build New Record on Inery" on:click={() => create()}>
     <div slot="body" class="flex flex-col gap-4">
         <input bind:value={create_id} type="text" placeholder="Type ID" class="input input-bordered w-full max-w-xs" />
-        <input type="text" placeholder="megumii" class="input input-bordered w-full max-w-xs" disabled />
+        <input type="text" placeholder="cepmek" class="input input-bordered w-full max-w-xs" disabled />
         <textarea bind:value={create_data} class="textarea textarea-bordered w-full" placeholder="Type the details"></textarea>
     </div>
 </Modal>
