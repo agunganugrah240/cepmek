@@ -96,7 +96,7 @@
                 <img src="https://i.imgur.com/NggjB16.png" />
             </div>
             <div class="w-24 mask mask-square bordered">
-              <img src="https://i.imgur.com/M49UhU5.png" />
+              <img src="https://imgur.com/a/8vnKrNh.png" />
             </div>
           </div>
     </div>
